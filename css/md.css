@@ -1,0 +1,19 @@
+@media (min-width: 992px) and (max-width: 1199px){
+.sidebar{
+    margin-left: 0;
+
+    max-width: 100%;
+    padding-right: 20px;
+}
+.sidebar .calendar{
+    width: 100%;
+	
+}
+#calendar .datepicker-inline{
+	width: 100%;
+}
+.sidebar .video-block #video{
+	width: 100%;
+}
+
+}

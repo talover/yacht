@@ -1,0 +1,188 @@
+@media screen and  (max-width: 767px){
+.navbar-default .navbar-toggle{
+	margin-top: 0;
+}
+.header .pull-right{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.header .header-logo{
+    padding-left: 10px;
+    max-width: 77%;
+    display: block;
+    min-width: 245px;
+    /* padding-top: 2%; */
+}
+#navbar{
+    padding: 0;
+
+    margin-top: 0;
+}
+#navbar ul{
+
+}
+.navbar .nav > li{
+	display: block;
+}
+#navbar .container{
+    padding: 0;
+	
+}
+.header .header-logo > img{
+	max-width: 100%;
+}
+.main-slider .item{
+    height: 480px;
+	
+}
+.content{
+	top: 480px;
+}
+.main-slider .carousel-caption{
+    top: 100px;
+	
+}
+.main-slider h1{
+    font-size: 30px;
+
+    line-height: normal;
+}
+.main-slider .big{
+    font-size: 40px;
+	
+    margin-left: 0;
+    line-height: normal;
+}
+.sidebar{
+	max-width: 100%;
+	margin-left: 0;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+.sidebar .calendar{
+	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+#calendar .datepicker-inline{
+	width: 100%;
+}
+.video-block #video{
+	width: 100%;
+	margin-bottom: 30px;
+	height: 200px;
+}
+.form-wrap{
+	margin-top: 0;
+	max-width: 100%;
+}
+.order{
+    padding: 20px 10px;
+	
+}
+.order .form-group.pull-right{
+	float: none !important;
+	display: block;
+}
+.order .form-group input,
+.order select,
+#datepicker input{
+	width: 100%;
+}
+.order .form-group,
+.order #datepicker .form-group{
+	display: block;
+	margin-bottom: 15px;
+}
+.input-group .form-control{
+	float: none;
+}
+.order input[type=submit]{
+	margin: 0 auto;
+	display: block;
+}
+.main-buttons{
+    margin: 20px 0 0px 0;
+	
+    text-align: center;
+}
+.main-buttons a{
+	margin-right: 0;
+	margin-bottom: 20px;
+}
+.main-buttons a:last-child{
+	margin-bottom: 0;
+}
+.footer{
+	text-align: center;
+	padding-top: 10px;
+	height: 405px;
+}
+.content > .container{
+	padding-bottom: 405px;
+}
+.footer .row .col-xs-12{
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid rgba(192, 149, 77, .3);
+}
+.footer .tel:last-child{
+	margin-bottom: 0;
+}
+.footer .footer-bot .col-xs-12{
+	border-bottom: none;
+	margin-bottom: 0;
+}
+.footer .footer-bot{
+    padding-top: 10px;
+    padding-bottom: 0;
+}
+.sidebar .side-title{
+	text-align: center;
+}
+.sidebar .side-subtitle{
+	text-align: center;
+}
+.video-block .title{
+    text-align: center;
+    font-size: 22px;
+}
+#datepicker input{
+    background-image: url(../img/calendar.png);
+    background-position: 98% center;
+}
+.inner h1{
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+.inner h2{
+    font-size: 22px;
+    letter-spacing: normal;
+}
+.inner ul{
+	padding-left: 0;
+	margin-bottom: 20px;
+}
+.inner ul li{
+    padding-left: 20px;
+    position: relative;
+    line-height: 22px;
+    margin-bottom: 7px;
+}
+.inner ul li:before{
+	position: absolute;
+  	left: 0;
+}
+.inner ul li:last-child{
+	margin-bottom: 0;
+}
+.inner .row.mb{
+	margin-bottom: 10px;
+}
+
+
+
+
+}
